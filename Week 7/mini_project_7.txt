@@ -1,4 +1,4 @@
-# http://codeskulptor-user26.commondatastorage.googleapis.com/user26_bArvPT7yP0_14.py
+# Run on http://www.codeskulptor.org
 
 # Spaceship Project 7
 # Working sound on the Mac Mini running OS 10.9, Mavericks 

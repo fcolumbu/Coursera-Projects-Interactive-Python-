@@ -1,6 +1,5 @@
 # implementation of Spaceship - program template for RiceRocks
-# Mini Project 8 - http://www.codeskulptor.org/#user27_Gr0jQjOrlM_10.py
-
+# Mini Project 8 - http://www.codeskulptor.org/
 #
 # This software has been tested on Chrome for MacOS and Windows, and for Safari on MacOS.
 # Chrome is the recommended browser. Firefox and IE are unsupported.
